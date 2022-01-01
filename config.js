@@ -31,7 +31,8 @@ module.exports = {
   author: {
     name: 'Curie Yoo',
     photo: 'media/profile.jpeg',
-    bio: 'Hi, I am Curie!',
+    bio: `Frontend Developer\n
+    📍 Seoul, Korea | Naver Corp.`,
     contacts: {
       email: 'curious.curieyoo@gmail.com',
       facebook: 'curie.yoo',
