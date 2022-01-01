@@ -1,17 +1,18 @@
 ---
-title: "[Typescript] Object vs. object vs. {}"
-date: "2021-01-19T22:40:32.169Z"
+title: LRU Cache Algorithm
+date: "2020-09-01T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "typescript-object"
-category: "Typescript"
+slug: "lru-cache-algorithm2"
+category: "CS"
 tags:
-  - "Typescript"
-  - "Frontend"
-  - "Web Development"
-description: "strictNullChecks 옵션이 안 켜져 있으면 null 과 undefined 는 세 가지 타입에 다 할당 가능하다..."
+  - "Computer Architecture"
+  - "Cache"
+  - "CS"
+description: "페이지 교체 알고리즘, 그리고 LRU 알고리즘 구현해보기"
 socialImage: ""
 ---
+
 
 `strictNullChecks` 옵션이 안 켜져 있으면 `null` 과 `undefined` 는 세 가지 타입에 다 할당 가능하다.
 

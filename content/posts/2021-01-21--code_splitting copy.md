@@ -1,6 +1,6 @@
 ---
 title: "[React] Code Splitting"
-date: "2021-01-21T00:00:00.001Z"
+date: "2021-01-21T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "react-code-splitting"

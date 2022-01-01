@@ -1,6 +1,6 @@
 ---
 title: "[Web] loadedmetadata / loadeddata / canplay"
-date: "2021-03-19T00:00:00.001Z"
+date: "2021-03-19T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "loaded-meta-data"

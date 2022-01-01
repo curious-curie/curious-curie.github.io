@@ -1,6 +1,6 @@
 ---
 title: "[JS] no-await-in-loop?"
-date: "2021-03-16T00:00:00.001Z"
+date: "2021-03-16T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "no-await-in-loop"

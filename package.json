@@ -5,7 +5,7 @@
   "scripts": {
     "develop": "yarn run clean && gatsby develop",
     "build": "yarn run clean && gatsby build",
-    "deploy": "gatsby build && gh-pages -d public -b master",
+    "deploy": "yarn run clean && gatsby build && gh-pages -d public -b production",
     "clean": "rimraf .cache public",
     "flow": "flow",
     "lint:js": "eslint --cache --ext .js,.jsx .",

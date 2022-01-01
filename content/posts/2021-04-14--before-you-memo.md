@@ -1,6 +1,6 @@
 ---
 title: "[React] Before you memo()"
-date: "2021-04-14T00:00:00.001Z"
+date: "2021-04-14T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "before-you-memo"

@@ -1,6 +1,6 @@
 ---
 title: "[Typescript] conditional types 활용해서 안정성 확보하기"
-date: "2021-01-20T00:00:00.001Z"
+date: "2021-01-20T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "typescript-conditional-types"

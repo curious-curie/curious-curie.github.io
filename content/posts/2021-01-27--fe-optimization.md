@@ -1,6 +1,6 @@
 ---
 title: "[FE] 프론트엔드 성능 최적화"
-date: "2021-01-27T00:00:00.001Z"
+date: "2021-01-27T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "fe-optimization"
